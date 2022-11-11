@@ -11,7 +11,7 @@ I'm JhodaDev <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" w
 ```javascript
 const jhodaDev = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Nodejs", "Html", "CSS"],
+    code: ["Javascript", "Typescript", "Nodejs", "Html", "CSS", "ReactJS"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         frontEnd: {
